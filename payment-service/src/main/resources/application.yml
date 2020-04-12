@@ -3,3 +3,5 @@ server:
 
 spring:  application:    name: PAYMENT-SERVICE
     
+logging:
+  file: C:/Users/Rajasekhar/Desktop/logs/microservices.log
